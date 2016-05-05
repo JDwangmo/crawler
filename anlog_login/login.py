@@ -8,7 +8,7 @@ import pytesseract
 import cStringIO
 
 # 10次模拟登陆
-for i in range(1):
+for i in range(10):
     try:
         index_url = "http://gdou.com/"
         login_url = "http://gdou.com/sso/login_login.action"
