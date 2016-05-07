@@ -7,6 +7,7 @@ import numpy as np
 import pytesseract
 import cStringIO
 
+
 # 10次模拟登陆
 for i in range(10):
     try:
